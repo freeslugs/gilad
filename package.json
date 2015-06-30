@@ -1,0 +1,26 @@
+{
+  "name": "gilad",
+  "version": "0.0.1",
+  "description": "my own npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeslugs/gilad.git"
+  },
+  "keywords": [
+    "gilad",
+    "aweasome",
+    "fun",
+    "cool",
+    "silly"
+  ],
+  "author": "Gilad Penn <giladpenn@gmail.com> (giladpenn.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeslugs/gilad/issues"
+  },
+  "homepage": "https://github.com/freeslugs/gilad#readme"
+}
